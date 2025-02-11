@@ -1,7 +1,7 @@
 ﻿# Teste Prático Sistema de Cadastro - Usina Santa Rita
 
 
-Este é um projeto simples de cadastro de usuários com funcionalidades de criar, atualizar e excluir usuários, utilizando PHP, MySQL e JS.
+Este é um projeto simples de cadastro de usuários com funcionalidades de criar, atualizar e excluir usuários, utilizando PHP, MySQL, JS e BootsTrap.
 
 Após fazer o download do arquivo e descompactar, siga esses passos:
 
